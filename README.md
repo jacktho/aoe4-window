@@ -8,4 +8,4 @@ A tiny utility to simulate windowed borderless mode in Age of Empires IV.
 4. You will need to manually run this every time you start AOE4.
 
 ### Usage
-1. Start the game and then run the script.
+1. Start the game and then run aoe4-window.exe or aoe4-window.ahk
