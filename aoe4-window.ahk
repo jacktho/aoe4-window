@@ -11,6 +11,5 @@ CenterWindow("ahk_class Plat::Window {DB3DC0D7-BBA3-4d06-BCD8-40CD448B4AE3}", ta
 CenterWindow(WinClass, targetWidth, targetHeight)
 {
     WinSet, Style, -0xC00000, %WinClass%
-    WinGetPos,,, Width, Height, %WinClass%
     WinMove, %WinClass%,,(A_ScreenWidth/2)-(targetWidth/2),0,targetWidth,targetHeight
 }
