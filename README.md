@@ -1,5 +1,5 @@
 # aoe4-window
-A tiny utility to simulate windowed borderless mode in Age of Empires IV.
+A tiny utility to simulate windowed borderless mode in Age of Empires IV for a 16:9 window on ultrawide monitors.
 
 ### Notes
 * "Game Window" in AOE4 should be set to "Windowed"
